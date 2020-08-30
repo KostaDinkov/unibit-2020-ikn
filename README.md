@@ -1,4 +1,4 @@
-# UNIBIT - Informatics and Computer Science
-## 2020 Enrolment
+# Унибит - Информатика и Компютърни Науки
+## Прием 2020 - задочна форма
 
-This repository contains documents related to the Unibit Informatics and Computer Science bachelors program. Lecture notes, code samples, schedules and so on. 
+Това репозитори съдържа документи, записки, задачи и други материали свързани с учебната програма на [Унибит](unibit.bg). Информацията е организирана по семестри и по учебни предмети.
