@@ -8,5 +8,6 @@
     "latex",
     "plaintext"
   ],
-  "python.pythonPath": "F:\\Anaconda\\python.exe"
+  "python.pythonPath": "F:\\Anaconda\\python.exe",
+  "mdmath.autosave": true
 }
