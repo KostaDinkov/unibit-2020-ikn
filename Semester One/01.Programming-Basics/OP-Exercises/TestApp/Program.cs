@@ -13,6 +13,7 @@ class Program
             Console.WriteLine(num);
         }
 
+        //testing tuples from c#7
         (int min, int max) = Range(myList);
         Console.WriteLine($"min:{min}, max:{max}");
         
