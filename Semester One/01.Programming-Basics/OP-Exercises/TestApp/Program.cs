@@ -13,7 +13,12 @@ class Program
             Console.WriteLine(num);
         }
 
+<<<<<<< HEAD
         var( min, max, _) = Range(myList);
+=======
+        //testing tuples from c#7
+        (int min, int max) = Range(myList);
+>>>>>>> 50f057a0df79d074c85a53d9591a087ebe90c9ec
         Console.WriteLine($"min:{min}, max:{max}");
         
     }
